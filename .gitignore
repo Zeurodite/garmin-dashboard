@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Datos personales de salud
+garmin_data.json
+raw_*.json
+dashboard.html
+
+# Nunca llaves
+*.key
+.env
